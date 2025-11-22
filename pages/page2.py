@@ -3,7 +3,7 @@ import plotly.express as px
 import numpy as np
 import matplotlib.pyplot as plt
 
-st title("Data Visualization")
+st.title("Data Visualization")
 
 
 x = np.linspace(0, 10, 100)
